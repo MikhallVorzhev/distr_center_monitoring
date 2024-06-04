@@ -1,0 +1,7 @@
+apiVersion: 1
+
+providers:
+  - name: 'Node-R2A'
+    folder: 'R2A-Systems'
+    options:
+      path: /etc/grafana/dashboards/
